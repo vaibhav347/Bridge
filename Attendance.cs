@@ -20,7 +20,7 @@ namespace wage
         }
         static void Main(string[] args)
         {
-            Program aa = new Program();
+            Attendance aa = new Attendance();
             aa.emp();
         }
     }
