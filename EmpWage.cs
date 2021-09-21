@@ -25,7 +25,7 @@ namespace wage
         }
         static void Main(string[] args)
         {
-            Program aa = new Program();
+            EmpWage aa = new EmpWage();
             aa.emp();
         }
     }
