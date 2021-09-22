@@ -40,8 +40,8 @@ namespace helloworld
 
             static void Main(string[] args)
             {
-                WageCase2 aa = new WageCase2();
-                aa.emp();
+                WageCase2 obj = new WageCase2();
+                obj.emp();
             }
         }
 
