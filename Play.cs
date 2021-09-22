@@ -115,10 +115,10 @@ namespace Game
         static void Main(string[] args)
         {
 	    // Object Creation of class Play
-            Play prog = new Play();
+            Play obj = new Play();
 
 	    // Calling methon using object
-            prog.ladderSnake();
+            obj.ladderSnake();
         }
     }
 }
